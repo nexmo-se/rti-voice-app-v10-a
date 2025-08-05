@@ -7,6 +7,6 @@
 
 /simplelanglist
 
-Languages supported by Deepgram STT, LanguageIO translate, Vonage API TTS.
+Languages supported by Deepgram STT, LanguageIO Translate, Vonage API TTS.
 
  
