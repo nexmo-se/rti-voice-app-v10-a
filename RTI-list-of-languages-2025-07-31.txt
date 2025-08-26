@@ -1,4 +1,4 @@
-Supported Real-Time Interpretation languages as of Jul 31, 2025
+Supported Real-Time Interpretation language locales as of Jul 31, 2025
 
 {
   "1": "български (Bulgarian)",
