@@ -802,6 +802,25 @@ const esES = [
   ];
 addToLangSetting (esES);
 
+const esMX = [
+  "es-MX",
+  "Español - México (Spanish - Mexico)",
+  "es-MX",
+  "0", // female
+  "",
+  "",
+  "",
+  "Hola, la otra persona en esta llamada habla otro idioma, escucharás la voz de la otra persona y la traducción de su discurso. Esta funcionalidad es posible mediante los servicios de comunicaciones programables de Vonage. ¡Gracias!",
+  "Hola", // short greeting
+  "", // speak now
+  "", // enter number to dial, 2nd-stage dialing
+  "", // pls wait before speaking
+  "", // select the language you will use to speak
+  "", // custom voice prompt 1
+  ""  // custom voice prompt 2
+  ];
+addToLangSetting (esMX);
+
 const esUS = [
   "es-US",
   "Español - Estados Unidos (Spanish - United States)",
