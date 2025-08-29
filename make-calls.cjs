@@ -18,8 +18,9 @@ module.exports = function(app) {
 
         const callInfo1 = {
         'type': 'phone',
-        'number': '12995550101', // one of the parties to call
-        'languageCode': 'es-MX', // should be a different language from call 2 below (except for auto)
+        'number': '14087726269',
+        // 'number': '13128108781', // Josh - one of the parties to call
+        'languageCode': 'en-US', // should be a different language from call 2 below (except for auto)
         'userId': 'abcde', // sample value
         'userName': 'myVBC', // sample value
         'conferenceName': '22334697', // unique for each conference call
@@ -50,8 +51,12 @@ module.exports = function(app) {
 
         const callInfo2 = {
         'type': 'phone',
-        'number': '12995551212', // other party to call
-        'languageCode': 'en-US', // must be a different language from call 1 above
+        // 'number': '393792628478', // other party to call
+        // 'languageCode': 'it-IT', // must be a different language from call 1 above
+        // 'number': '919975089697', // other party to call
+        // 'languageCode': 'hi-IN', // must be a different language from call 1 above
+        'number': '14083553148', // other party to call
+        'languageCode': 'es-MX', // must be a different language from call 1 above
         'userId': 'fghijk', // sample value
         'userName': 'myCell', // sample value
         'conferenceName': '22334697', // unique for each conference call (but same as for call 1)
